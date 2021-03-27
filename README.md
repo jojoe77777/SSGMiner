@@ -1,0 +1,2 @@
+# SSGMiner
+todo release
